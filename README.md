@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![ufan0's github stats](https://github-readme-stats.vercel.app/api?username=ufan0&show_icons=true&theme=dracula)(https://allinprogram.com/)
+[![ufan0's github stats](https://github-readme-stats.vercel.app/api?username=ufan0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://allinprogram.com/)
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ufan0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://allinprogram.com/)
-
-![](https://komarev.com/ghpvc/?username=ufan0&color=gray)
+![](https://komarev.com/ghpvc/?username=ufan0&color=red)
