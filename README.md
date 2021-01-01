@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 𝗦𝘁𝗮𝘁𝘀
+
+![ufan0's github stats](https://github-readme-stats.vercel.app/api?username=ufan0&show_icons=true&theme=dracula)
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ufan0&layout=compact)](https://allinprogram.com/)
+
+![](https://komarev.com/ghpvc/?username=ufan0&color=black)
